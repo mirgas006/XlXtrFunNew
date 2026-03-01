@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>XlXtrFunNew</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable> 
+    <DebugType>none</DebugType> <!-- ALEBO 'portable' -->
+    <DebugSymbols>false</DebugSymbols>      
+    <ExcelDnaPackIncludePdb>false</ExcelDnaPackIncludePdb>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Excel-DNA" Version="1.8.0" />
+    <PackageReference Include="ExcelDna.AddIn" Version="1.8.0" />
+    <PackageReference Include="pythonnet" Version="3.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- 1. Povedz MSBuild, aby bral do úvahy VŠETKY súbory v priečinku 'python'. -->
+    <!-- 'Content' je typ súboru, ktorý má byť súčasťou výstupu aplikácie. -->
+    <Content Include="python\**">
+    
+      <!-- 2. Povedz mu, aby tieto súbory VŽDY skopíroval do adresára pre publikovanie. -->
+      <!-- 'PreserveNewest' znamená, že súbor sa skopíruje, iba ak je novší ako cieľový. -->
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      
+    </Content>
+  </ItemGroup>
+  
+</Project>

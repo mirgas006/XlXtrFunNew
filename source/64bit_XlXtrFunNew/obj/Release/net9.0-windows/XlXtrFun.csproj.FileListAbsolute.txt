@@ -1,0 +1,12 @@
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\bin\Release\net9.0-windows\XlXtrFun.deps.json
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\bin\Release\net9.0-windows\XlXtrFun.runtimeconfig.json
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\bin\Release\net9.0-windows\XlXtrFun.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\bin\Release\net9.0-windows\Python.Runtime.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\obj\Release\net9.0-windows\XlXtrFun.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\obj\Release\net9.0-windows\XlXtrFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\obj\Release\net9.0-windows\XlXtrFun.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\obj\Release\net9.0-windows\XlXtrFun.AssemblyInfo.cs
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\obj\Release\net9.0-windows\XlXtrFun.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\obj\Release\net9.0-windows\XlXtrFun.csproj.Up2Date
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\obj\Release\net9.0-windows\XlXtrFun.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun\obj\Release\net9.0-windows\XlXtrFun.genruntimeconfig.cache

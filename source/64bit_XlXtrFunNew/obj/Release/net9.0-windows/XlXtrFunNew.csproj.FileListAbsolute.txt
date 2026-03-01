@@ -1,0 +1,24 @@
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\bin\Release\net9.0-windows\XlXtrFunNew.deps.json
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\bin\Release\net9.0-windows\XlXtrFunNew.runtimeconfig.json
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\bin\Release\net9.0-windows\XlXtrFunNew.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\bin\Release\net9.0-windows\Python.Runtime.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\obj\Release\net9.0-windows\XlXtrFunNew.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\obj\Release\net9.0-windows\XlXtrFunNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\obj\Release\net9.0-windows\XlXtrFunNew.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\obj\Release\net9.0-windows\XlXtrFunNew.AssemblyInfo.cs
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\obj\Release\net9.0-windows\XlXtrFunNew.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\obj\Release\net9.0-windows\XlXtrFun.C5CAF319.Up2Date
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\obj\Release\net9.0-windows\XlXtrFunNew.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFun derivacie parabolicky\obj\Release\net9.0-windows\XlXtrFunNew.genruntimeconfig.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\bin\Release\net9.0-windows\XlXtrFunNew.deps.json
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\bin\Release\net9.0-windows\XlXtrFunNew.runtimeconfig.json
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\bin\Release\net9.0-windows\XlXtrFunNew.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\bin\Release\net9.0-windows\Python.Runtime.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\obj\Release\net9.0-windows\XlXtrFunNew.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\obj\Release\net9.0-windows\XlXtrFunNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\obj\Release\net9.0-windows\XlXtrFunNew.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\obj\Release\net9.0-windows\XlXtrFunNew.AssemblyInfo.cs
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\obj\Release\net9.0-windows\XlXtrFunNew.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\obj\Release\net9.0-windows\XlXtrFun.C5CAF319.Up2Date
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\obj\Release\net9.0-windows\XlXtrFunNew.dll
+C:\Users\PC\OneDrive - MUNI\Desktop\XlXtrFunNew\source\64bit_XlXtrFunNew\obj\Release\net9.0-windows\XlXtrFunNew.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+ <!-- PythonExcelAddIn-AddIn.dna -->
+<DnaLibrary Name="Python Excel AddIn" RuntimeVersion="v9.0">
+    <ExternalLibrary Path="XlXtrFun.dll" LoadFromBytes="true" Pack="true" />
+
+    <Python>
+        <Version>3.12</Version> 
+        <Runtime>PythonCore</Runtime>
+    </Python>
+</DnaLibrary> 
