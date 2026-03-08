@@ -1,6 +1,6 @@
 ﻿# XlXtrFunNew
 Toto je náhrada za pôvodné rozšírenie Excelu XlXtrFun (http://www.xlxtrfun.com), ktoré žiaľ bolo skompilované iba pre 32-bitový Excel, avšak už ani na novších verziách 32-bitového Excelu nie je funkčné.  
-Toto rozšírenie je zaimplementované do Excelu pomocou C# knižnice ExcelDna, výpočty sú vykonávané v pythone, ktorý je priložený k rozšíreniu. C# s Pythonom komunikuje pomocou C# knižnice pythonnet.
+Toto rozšírenie je zaimplementované do Excelu pomocou C# knižnice ExcelDna, výpočty sú vykonávané v Pythone, ktorý je priložený k rozšíreniu. C# s Pythonom komunikuje pomocou C# knižnice pythonnet.
 
 Nahradené sú všetky 1D a 2D funkcie.
 	LookupClosestValue, IndexOfClosestValue, LookupClosestValue2D, Spline, Interp a Interpolate, PFit fungujú identicky.
@@ -16,5 +16,6 @@ V súbore "porovnanie.xlsx" je možné nahliadnuť na rozdieli v pôvodnej a tej
 Adresár "source" obsahuje zdrojový kód rozšírenia.
 Adresár "dist" obsahuje skompilované rozšírenie pre použivateľa.
 V prípade, že Excel po pridaní rozšírenia do Excelu štrajkuje, treba rozšírenie .xll "odblokovať", tak ako to je spravené na obrázku "permission.png".
+
 
 
